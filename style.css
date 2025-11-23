@@ -1,0 +1,30 @@
+.booking-box {
+  width: 300px;
+  padding: 20px;
+  background: #f5f5f5;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.booking-box input,
+.booking-box select {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.booking-box button {
+  width: 100%;
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.booking-box button:hover {
+  background: #0056b3;
+}
